@@ -1,0 +1,10 @@
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\bin\Debug\K180296_Q2.exe.config
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\bin\Debug\K180296_Q2.exe
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\bin\Debug\K180296_Q2.pdb
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.csprojResolveAssemblyReference.cache
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.loginForm.resources
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.Properties.Resources.resources
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.csproj.GenerateResource.Cache
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.exe
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.pdb
+C:\Users\Alqama\Documents\Visual Studio 2017\Projects\K180296_Q2\K180296_Q2\obj\Debug\K180296_Q2.VoterDetailForm.resources

@@ -1,0 +1,6 @@
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\bin\Debug\K180296_Q3.exe.config
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\bin\Debug\K180296_Q3.exe
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\bin\Debug\K180296_Q3.pdb
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\obj\Debug\K180296_Q3.exe
+c:\users\alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\obj\Debug\K180296_Q3.pdb
+C:\Users\Alqama\documents\visual studio 2017\Projects\K180296_Q3\K180296_Q3\obj\Debug\K180296_Q3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,89 @@
+﻿@using K180296_Q4.Models
+@model Dictionary<string, K180296_Q4.Models.PositionModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+
+   
+    <table>
+        <tr>
+            <h1>President</h1>
+        </tr>
+        <tr>
+            <th>Candidate Name</th>
+            <th>Votes</th>
+        </tr>
+        @foreach (KeyValuePair<string, K180296_Q4.Models.PositionModel> entry in ViewBag.President)
+        {
+            <tr>
+                <td>@entry.Value.name</td>
+                <td>@entry.Value.votes</td>
+            </tr>
+        }
+
+    </table>
+
+    <table>
+        <tr>
+          <h1>  Vice President</h1>
+        </tr>
+        <tr>
+            <th>Candidate Name</th>
+            <th>Votes</th>
+        </tr>
+        @foreach (KeyValuePair<string, K180296_Q4.Models.PositionModel> entry in ViewBag.VicePresident)
+        {
+            <tr>
+                <td>@entry.Value.name</td>
+                <td>@entry.Value.votes</td>
+            </tr>
+        }
+
+    </table>
+
+    <table>
+        <tr>
+          <h1>  General Secretary</h1>
+        </tr>
+        <tr>
+            <th>Candidate Name</th>
+            <th>Votes</th>
+        </tr>
+        @foreach (KeyValuePair<string, K180296_Q4.Models.PositionModel> entry in ViewBag.GeneralSecretary)
+        {
+            <tr>
+                <td>@entry.Value.name</td>
+                <td>@entry.Value.votes</td>
+            </tr>
+        }
+    </table>
+
+</div>
+
+<script>
+    (function () {
+        setTimeout(() => {
+            window.location = "/";
+        }, 300000)
+    })()
+</script>
+
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
